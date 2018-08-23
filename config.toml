@@ -68,15 +68,15 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Florida International University", url = "" } ]
+  organizations = [ { name = "Florida International University", url = "https://www.cis.fiu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "tisla005@fiu.edu"
+  address = "16428 SW 66th Street, Miami, FL - 33193"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+1 305-498-3481"
+  skype = "taufiq.islam"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
